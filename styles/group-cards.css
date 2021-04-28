@@ -1,0 +1,39 @@
+.group-cards {
+    background-color: #454545;
+    height: 500px;
+    width: 100%;
+}
+
+.group-items {
+    padding: 25px 550px;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    position: relative;
+}
+
+.group-item {
+    text-align: center;
+    background-color: white;
+    width: 250px;
+    height: 450px;
+}
+
+.group-item-middle {
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.group-item-img {
+    height: 180px;
+    width: 100%;
+}
+
+.group-item-title {
+    margin: 40px 5px;
+    font-weight: bold;
+}
+
+.group-item-text {
+    font-size: 18px;
+    margin: 0px 20px 10px;
+}

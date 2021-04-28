@@ -1,0 +1,17 @@
+.digital-needs {
+  width: 100%;
+}
+
+.digital-content{
+    padding: 50px 520px;
+}
+
+.digital-title {
+  text-align: center;
+  font-size: 26px;
+}
+
+.digital-text{
+    text-align: center;
+    font-size: 18px;
+}
